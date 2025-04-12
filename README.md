@@ -1,6 +1,3 @@
-Aqui vai uma sugestão de formatação mais clara, profissional e bem estruturada para essa descrição da sua API REST **ExoApi**:
-
----
 
 ## 🛠️ ExoApi — API REST para Gestão de Projetos Internos
 
